@@ -1,2 +1,1 @@
-# nunca-parar
-O começo
+# Javascript-nao-performatico
